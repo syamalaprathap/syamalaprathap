@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Syamala Prathap Reddy
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning B.Tech
+- 👀 I’m interested in Java Full Stack Java developing 
+- 🌱 I’m currently learning 1.Java FullStack
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me ...
+- 📫 How to reach me http://www.linkedin.com/in/prathap-reddy-syamala
 - 😄 Pronouns: Prathap
 - ⚡ Fun fact: ...
 
