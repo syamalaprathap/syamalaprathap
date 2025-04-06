@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syamala Prathap Reddy
+- 👋 Hi, I’m @SyamalaPrathapReddy
 - 👀 I’m interested in Java Full Stack Java developing 
 - 🌱 I’m currently learning 1.Java FullStack
 - 💞️ I’m looking to collaborate on Java projects
